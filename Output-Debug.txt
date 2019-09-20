@@ -1,0 +1,12 @@
+﻿'restoran.exe': Loaded 'C:\Users\Acer\Documents\Visual Studio 2010\Projects\restoran\Debug\restoran.exe', Symbols loaded.
+'restoran.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'restoran.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'restoran.exe': Unloaded 'C:\Windows\SysWOW64\kernel32.dll'
+'restoran.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'restoran.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'restoran.exe': Loaded 'C:\Windows\SysWOW64\msvcp100d.dll', Symbols loaded.
+'restoran.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+The thread 'Win32 Thread' (0x12e0) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x1134) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x35c) has exited with code 0 (0x0).
+The program '[5684] restoran.exe: Native' has exited with code 0 (0x0).

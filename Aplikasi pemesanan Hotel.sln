@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "aplikasi pemasanan Hotel", "aplikasi pemasanan Hotel\aplikasi pemasanan Hotel.vcxproj", "{B86D8BE3-C00B-45E7-9570-8955D357E67A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B86D8BE3-C00B-45E7-9570-8955D357E67A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B86D8BE3-C00B-45E7-9570-8955D357E67A}.Debug|Win32.Build.0 = Debug|Win32
+		{B86D8BE3-C00B-45E7-9570-8955D357E67A}.Release|Win32.ActiveCfg = Release|Win32
+		{B86D8BE3-C00B-45E7-9570-8955D357E67A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

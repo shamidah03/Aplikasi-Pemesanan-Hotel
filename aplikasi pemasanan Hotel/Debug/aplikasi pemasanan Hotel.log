@@ -1,0 +1,22 @@
+﻿Build started 9/20/2019 5:11:39 PM.
+     1>Project "D:\Document\semester 1\produktif\pemdas\Visual Studio 2010\Projects\if\Program Pemesanan Hotel\aplikasi pemasanan Hotel\aplikasi pemasanan Hotel.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\aplikasi pemasanan Hotel.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "hotel permai.cpp"
+         hotel permai.cpp
+     1>d:\document\semester 1\produktif\pemdas\visual studio 2010\projects\if\program pemesanan hotel\aplikasi pemasanan hotel\hotel permai.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Document\semester 1\produktif\pemdas\Visual Studio 2010\Projects\if\Program Pemesanan Hotel\Debug\aplikasi pemasanan Hotel.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\aplikasi pemasanan Hotel.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Document\semester 1\produktif\pemdas\Visual Studio 2010\Projects\if\Program Pemesanan Hotel\Debug\aplikasi pemasanan Hotel.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Document\semester 1\produktif\pemdas\Visual Studio 2010\Projects\if\Program Pemesanan Hotel\Debug\aplikasi pemasanan Hotel.lib" /MACHINE:X86 "Debug\hotel permai.obj"
+         LINK : D:\Document\semester 1\produktif\pemdas\Visual Studio 2010\Projects\if\Program Pemesanan Hotel\Debug\aplikasi pemasanan Hotel.exe not found or not built by the last incremental link; performing full link
+         aplikasi pemasanan Hotel.vcxproj -> D:\Document\semester 1\produktif\pemdas\Visual Studio 2010\Projects\if\Program Pemesanan Hotel\Debug\aplikasi pemasanan Hotel.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Document\semester 1\produktif\pemdas\Visual Studio 2010\Projects\if\Program Pemesanan Hotel\Debug\aplikasi pemasanan Hotel.exe;#1" /manifest "Debug\aplikasi pemasanan Hotel.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\aplikasi pemasanan Hotel.unsuccessfulbuild".
+         Touching "Debug\aplikasi pemasanan Hotel.lastbuildstate".
+     1>Done Building Project "D:\Document\semester 1\produktif\pemdas\Visual Studio 2010\Projects\if\Program Pemesanan Hotel\aplikasi pemasanan Hotel\aplikasi pemasanan Hotel.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.45
